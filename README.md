@@ -4,11 +4,11 @@
   Sablog-X是一个采用PHP和MySQL构建的博客系统.作为Sablog的后继产品,Sablog-X在代码质量,运行效率,负载能力,安全等级,功能可操控性和权限严密性等方面都在原有的基础上,更上一层楼.凭借Sablog-X作者7年多的安全技术经验,4年的PHP开发经验,强于创新,追求完美的设计理念,使得Sablog-X已获得业内越来越多专家和用户的认可. 
 ### 全新安装
     上传所有文件到空间，设置以下目录和文件的权限：
-- ./admin/backupdata 目录权限为 0777 (*nix系统) 
-- ./attachments 目录权限为 0777 (*nix系统) 
-- ./config.php 文件权限为 0777 (*nix系统) 
-- ./cache 目录权限为 0777 (*nix系统) 
-- ./cache/log 目录权限为 0777 (*nix系统) 
+- ./admin/backupdata 目录权限为 0777 
+- ./attachments 目录权限为 0777 
+- ./config.php 文件权限为 0777 
+- ./cache 目录权限为 0777
+- ./cache/log 目录权限为 0777
 	      
 访问/install目录。程序会自动引导并提示安装过程。 
 
