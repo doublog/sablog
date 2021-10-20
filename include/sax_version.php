@@ -1,0 +1,6 @@
+<?php
+
+$SABLOG_VERSION = '1.6';
+$SABLOG_RELEASE = '20080806';
+
+?>
